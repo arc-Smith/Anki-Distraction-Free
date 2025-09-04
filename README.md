@@ -36,3 +36,4 @@ I have several ideas for improving and expanding this add-on:
 * **GUI for Customization:** Adding a graphical user interface within Anki to easily change the time limit, sound, and colors without having to edit the code.
 * **Customizable Alerts:** Allowing users to select from different sounds and color schemes for both the negative and positive feedback alerts.
 * **Difficulty-Based Timers:** Implementing different time limits based on a card's difficulty or the number of times it has been reviewed.
+* **Enhanced Visual Feedback:** Add a persistent "yellow" warning state. If a user takes too long on a card (triggering the red background and auto-advance), the background will turn yellow and remain that color for the subsequent card. The only way to remove the yellow state is to successfully answer the next card within the time limit, at which point the background briefly flashes green and then returns to the standard white.
