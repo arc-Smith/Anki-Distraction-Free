@@ -1,6 +1,6 @@
 # Anki-Distraction-Free
 
-Ever get lost in thought or distracted while doing your flashcards? This add-on is a simple solution to a common problem, helping you maintain focus and efficiency during your review sessions.
+Ever get lost in thought or distracted while doing your flashcards? This add-on is a simple solution to a common problem, helping you maintain focus and efficiency during your review sessions..
 
 ## Motivation
 
