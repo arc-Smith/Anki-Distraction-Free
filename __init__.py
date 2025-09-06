@@ -42,7 +42,7 @@ class AutoAdvance:
             yellow_persistent = True  # Persist yellow background
             
             # Replace the path below with the full path to your sound file
-            sound_file = "/Users/arcSmith/Library/Application Support/Anki2/addons21/auto-advance/emerge.wav"
+            sound_file = "/Users/arcSmith/Library/Application Support/Anki2/addons21/auto-advance/alarm.wav"
 
             # Check if the file exists
             if os.path.exists(sound_file):
