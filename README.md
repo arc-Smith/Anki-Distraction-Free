@@ -1,4 +1,4 @@
-# Anki-Distraction-Free
+# Anki Distraction-Free Add-On
 
 https://github.com/user-attachments/assets/1ee49b8a-d722-4fe0-b5b9-5a53b58f0a82
 
