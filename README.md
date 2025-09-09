@@ -1,6 +1,6 @@
 # Anki-Distraction-Free
 
-https://github.com/user-attachments/assets/87fc1f1f-f9b8-47ee-bdb5-ddc12a648560
+https://github.com/user-attachments/assets/1ee49b8a-d722-4fe0-b5b9-5a53b58f0a82
 
 Ever get lost in thought or distracted while doing your flashcards? This add-on is a simple solution to a common problem, helping you maintain focus and efficiency during your review sessions.
 
